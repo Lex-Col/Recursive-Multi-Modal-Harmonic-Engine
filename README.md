@@ -1,5 +1,5 @@
 # Recursive Multi-Modal Harmonic Engine
- ##Deterministic State-Space Visualization Engine
+## Deterministic State-Space Visualization Engine
 
 The Recursive Multi-Modal Harmonic Engine is a fundamental shift in how we command resonance. By bridging the gap between raw frequency and observable geometry, this engine establishes a control layer for universal oscillation.
 
