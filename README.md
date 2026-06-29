@@ -40,7 +40,7 @@ This engine is the precursor to a total-environment control interface. Where it 
 ## Integrity Verification
 The project is verified by the following SHA-512 cryptographic fingerprint:
 
-`193fe3c3f1884bda737bc897fe60e6a7cfe90067bedf0ec1729ea8c80e4134a7ab2f85a21a6bfbfc2ebd74aad01c1760e599f97889df96ca699707c6da433d78`
+`9792f77705159a9aa5343e9b5f8a22e0dec54b047a7819765c13757434d1cb8d3cad1162f44bd51cac106316740fd662ff89e38f554ed745c848c8ccb1375bec`
 
 ---
 ⚖️ LEGAL NOTICE & LICENSE (UPAL v5.2.0)
